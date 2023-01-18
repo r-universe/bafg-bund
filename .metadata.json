@@ -2,5 +2,9 @@
   {
     "package": "hyd1d",
     "oncran": true
+  },
+  {
+    "package": "hydflood",
+    "oncran": true
   }
 ]
