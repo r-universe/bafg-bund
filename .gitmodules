@@ -5,6 +5,3 @@
 [submodule "hyd1d"]
 	path = hyd1d
 	url = https://github.com/bafg-bund/hyd1d
-[submodule "hydflood"]
-	path = hydflood
-	url = https://github.com/bafg-bund/hydflood
