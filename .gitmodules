@@ -8,3 +8,6 @@
 [submodule "hydflood"]
 	path = hydflood
 	url = https://github.com/bafg-bund/hydflood
+[submodule "hydrodownloadR"]
+	path = hydrodownloadR
+	url = https://github.com/bafg-bund/hydrodownloadr
